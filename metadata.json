@@ -3,5 +3,6 @@
   "description": "Automatically maximizes all new windows for touch-friendly usage",
   "uuid": "auto-maximize@hydrogenhallide",
   "shell-version": ["45", "46", "47", "48", "49"],
-  "version": 1
+  "settings-schema": "org.gnome.shell.extensions.auto-maximize",
+  "version": 2
 }

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema id="org.gnome.shell.extensions.auto-maximize" path="/org/gnome/shell/extensions/auto-maximize/">
+    <key name="use-fullscreen" type="b">
+      <default>false</default>
+      <summary>Use fullscreen instead of maximize</summary>
+      <description>When enabled, windows will be made fullscreen instead of maximized, hiding the title bar completely.</description>
+    </key>
+  </schema>
+</schemalist>
